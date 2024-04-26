@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @omkarwagh31
+- 👀 I’m interested in software engineeering
+- 🌱 I’m currently learning BE Information techonology
+- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+omkarwagh31/omkarwagh31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
